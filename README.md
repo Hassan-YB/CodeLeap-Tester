@@ -15,6 +15,7 @@ This project implements a Django-based API for managing posts, including basic C
 - Django
 - Django Rest Framework
 - Docker
+- Docker Compose
 
 ### Installation
 
