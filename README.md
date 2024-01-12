@@ -19,13 +19,6 @@ This project implements a Django-based API for managing posts, including basic C
 
 ### Installation
 
-### Copy environment file
-
-```shell script
-cp packaging/env.txt .env
-```
-If needed, fill in the values in .env file
-
 ### Run project
 
 ```shell script
